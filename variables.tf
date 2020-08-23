@@ -21,7 +21,7 @@ variable "created_by" {
 }
 
 variable "name" {
-  default = "srijan"
+  default = "dhiru"
 }
 
 ######################### VPC ################
