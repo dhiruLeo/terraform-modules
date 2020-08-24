@@ -1,0 +1,4 @@
+variable "policy" {}
+
+variable "arn" {  
+}
